@@ -1,4 +1,4 @@
-name: Example workflow for Node using Snyk
+name: alert Snyk
 on: push
 jobs:
   security:
